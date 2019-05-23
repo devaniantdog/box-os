@@ -4,4 +4,4 @@ yeah
 it's just an operating system
 
 install guide- 
-unzip the file and place 'box-os' in c:/
+download the entire thing as a zip file, unzip it and put it in C:/
